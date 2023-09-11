@@ -1,4 +1,4 @@
-# Playlist Padrão
+# Playlists
 
   ## [playlist-todas.txt](Playlists/playlist-todas.txt)
 
