@@ -2,11 +2,11 @@
 Blur – Song 2
 
 [BLOCO - LENTAS NACIONAIS] CORTAR ESSE BLOCO DEPENDENDO DO LUGAR
-Charlie Brown Jr. - Céu Azul
-Legião Urbana - Pais e Filhos
 Charlie Brown Jr. - Só os Loucos Sabem
-Cassia Eller - O Segundo Sol
+Legião Urbana - Pais e Filhos
+Charlie Brown Jr. - Céu Azul
 Capital Inicial - Primeiros Erros (Chove)
+Cassia Eller - O Segundo Sol
 
 [BLOCO - MEDIAS INTERNACIONAIS]
 Audioslave – Like a Stone
@@ -18,16 +18,17 @@ The Strokes - Last Nite
 NXZero - Cedo ou Tarde
 Charlie Brown Jr. - Lugar ao Sol
 Legião Urbana - Tempo Perdido
+Barão Vermelho - Bete Balanço
 Cazuza - Exagerado
-Capital Inicial - Natasha
 
 [BLOCO - LENTAS INTERNACIONAIS]
+The Cranberries - Zombie
 Silverchair - Miss You Love
 Red Hot Chili Peppers - Otherside
 R.E.M. - Losing My Religion
 Creed - My Sacrifice
 
-[BLOCO - ALTAS NACIONAIS]
+[BLOCO - ALTAS NACIONAIS] - Padrão
 Charlie Brown Jr. - Proibida Pra Mim
 Legião Urbana - Será
 CPM22 - Dias Atrás
@@ -53,11 +54,10 @@ Los Hermanos - Anna Júlia
 Jota Quest - Do Seu Lado
 
 [BLOCO - ALTAS INTERNACIONAIS]
-Linkin Park – In The End
 Nirvana - Smells Like Teen Spirit
-Three Days Grace – I Hate Everything About You
 Rage Against The Machine – Killing in The Name
 System of A Down – Chop Suey!
 Silverchair – Anthem for the year 2000
+Linkin Park – In The End
 
 
