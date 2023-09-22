@@ -6,3 +6,19 @@
 
   - ## [playlist-angelina.txt](Playlists/playlist-angelina.txt)
 
+## NOTAS
+
+Zombie:
+- nato - ensaiar mais vocal
+- todos - estrutura da musica
+- will - ensaiar solo final
+
+Last Nite:
+- will - guitarra no verso é groovieada
+
+Cedo ou tarde:
+- todos - ensaiando vamos melhorando naturalmente
+
+Losing my religion:
+- todos - estrutura da musica
+- todos - ensaiando vamos melhorando naturalmente
