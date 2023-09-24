@@ -6,6 +6,15 @@
 
   - ## [playlist-angelina.txt](Playlists/playlist-angelina.txt)
 
+
+bloco reaggae
+bloco 80 nacional
+bloco 80 internacional
+
+precisamos ter 3hrs de repertorio
+2 x 1:30
+
+
 ## NOTAS
 
 Zombie:
