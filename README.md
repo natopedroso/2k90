@@ -1,4 +1,5 @@
 # Playlists
+  - ## [playlist-Hoje](Playlists/tiradas.txt)
 
   - ## [playlist-todas.txt](Playlists/playlist-todas.txt)
   
@@ -16,18 +17,3 @@ precisamos ter 3hrs de repertorio
 
 
 ## NOTAS
-
-Zombie:
-- nato - ensaiar mais vocal
-- todos - estrutura da musica
-- will - ensaiar solo final
-
-Last Nite:
-- will - guitarra no verso é groovieada
-
-Cedo ou tarde:
-- todos - ensaiando vamos melhorando naturalmente
-
-Losing my religion:
-- todos - estrutura da musica
-- todos - ensaiando vamos melhorando naturalmente
